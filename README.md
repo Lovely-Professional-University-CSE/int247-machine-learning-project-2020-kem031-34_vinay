@@ -3,7 +3,7 @@
 
 Group members:
 
-[ch. Vinay Kumar -- 11716840]
+[Ch. Vinay Kumar -- 11716840]
 
 [K. Sai Chand -- 11706932]
 
