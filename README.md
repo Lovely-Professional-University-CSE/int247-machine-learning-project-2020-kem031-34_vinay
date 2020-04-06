@@ -1,4 +1,4 @@
-HUMAN ACTIVITY RECOGNITION
+#HUMAN ACTIVITY RECOGNITION
 1) PROJECT GUI
 ![Screenshot (1374)](https://user-images.githubusercontent.com/47757720/78571197-8f449580-7843-11ea-82eb-cb9bc0b595aa.png)
 2) Click on "Browse a File" button to select a Video File for prediction from your local disk
