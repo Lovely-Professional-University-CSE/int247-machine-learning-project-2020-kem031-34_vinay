@@ -1,8 +1,11 @@
 # HUMAN ACTIVITY RECOGNITION
 NOTE: Place the files above in a folder where python is installed on your PC. As we are going to run it using command prompt
 Requirements: 
-install OpenCV2 -- pip install opencv-python  
-install imutils -- pip install imutils 
+
+install OpenCV2 -- pip install opencv-python
+
+install imutils -- pip install imutils
+
 install argparse -- pip install argparse 
 
 
