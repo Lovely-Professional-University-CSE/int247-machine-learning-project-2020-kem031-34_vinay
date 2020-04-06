@@ -1,4 +1,12 @@
 # HUMAN ACTIVITY RECOGNITION
+
+
+Group members:
+[ch. Vinay Kumar -- 11716840]
+[K. Sai Chand -- 11706932]
+[K. Snehith Reddy -- 11709185]
+
+
 NOTE: Place the files above in a folder where python is installed on your PC. As we are going to run it using command prompt
 Requirements: 
 
