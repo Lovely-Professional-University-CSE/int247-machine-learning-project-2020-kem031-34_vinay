@@ -1,3 +1,4 @@
+#import all necessary library
 from tkinter import *
 from tkinter import filedialog
 import os
@@ -30,6 +31,7 @@ labelb.place(x=22,y=30)
 def aboutDataset():
     messagebox.showinfo('[INFO]',"INTERNET REQUIRED!!")
     print("Kinetics400 dataset used")
+    # opening dataset website using python need net
     webbrowser.open('https://deepmind.com/research/open-source/kinetics')    
 
 def aboutUs():
@@ -99,6 +101,7 @@ def openFile():
 
 def startPrediction():
     print("in start prediction: ",filepath)
+    # running command using cmd from python
     command="python human_activity_recognition.py --model resnet-34_kinetics.onnx --classes action_recognition_kinetics.txt --input "+filepath 
     os.system('cmd /k "'+str(command)+'"')    
     
@@ -117,6 +120,7 @@ button2.config(font=('times',10,'bold'))
 button2.place(x=600,y=350)
 def architectureModel():
     messagebox.showinfo('[INFO]',"INTERNET REQUIRED!! ")
+    # opening netron for model visualization using python need net
     webbrowser.open('https://lutzroeder.github.io/netron/')
 button3=Button(root,text="View Model  Architecture ",bg="red",fg="white",activebackground="green",width=40,command=architectureModel)
 button3.config(font=('times',10,'bold'))
