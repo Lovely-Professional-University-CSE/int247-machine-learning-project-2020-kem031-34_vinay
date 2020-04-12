@@ -1,6 +1,7 @@
 # HUMAN ACTIVITY RECOGNITION
 
-
+click on the link to view project website : https://sites.google.com/view/ml-int247-har  
+ 
 Group members:
 
 [Ch. Vinay Kumar -- 11716840]
